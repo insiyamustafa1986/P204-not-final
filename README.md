@@ -1,1 +1,2 @@
-# P204-not-final
+# C204-project-template
+template with assets.
